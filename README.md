@@ -82,8 +82,4 @@ Academic Group Mini Project – Electronics and Communication Engineering
 **Note:** This is an educational prototype. Object detection and ID matching do not constitute secure drone authentication or a validated drone detection system.
 ## Project Gallery
 
-### Drone
-![Drone](images/Drone.png)
 
-### Ground Side Drone
-![Ground Side Drone](images/GroundSideDrone.png)
